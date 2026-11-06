@@ -1,0 +1,27 @@
+# robots.txt — https://murahwebsite.my/
+# All public pages are open to search engines and AI search crawlers.
+# Note: AI *training* crawlers (e.g. GPTBot, Google-Extended, CCBot) are not
+# singled out here, so they follow the "*" group below. That is the same
+# behaviour the site had before this file existed. Add explicit Disallow
+# groups only if the site owner decides to opt out of AI training.
+
+User-agent: *
+Allow: /
+
+# Search / answer-engine crawlers (explicitly allowed)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://murahwebsite.my/sitemap.xml

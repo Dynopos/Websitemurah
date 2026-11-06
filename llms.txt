@@ -1,0 +1,24 @@
+# Dyno Website Services
+
+> Dyno Website Services (also known as DynoPOS Website Services) provides website design and development for small businesses, entrepreneurs and service providers in Malaysia. The main product is "Website Premium Mampu Milik": a one-page premium landing page, promotional price from RM200 (original price RM999). Site language: Bahasa Melayu (Malaysia).
+
+Key facts (as stated on https://murahwebsite.my/):
+
+- Price: RM200 promotional price for 1 premium landing page (original price RM999). Currency: MYR.
+- Included: 1 premium landing page, mobile-friendly design, WhatsApp button and call-to-action, services/products section, portfolio or gallery, contact and location details, revisions within an agreed period.
+- Not included: domain, hosting, payment systems, e-commerce or custom functions. Domain and hosting are discussed separately.
+- Delivery: ready within 2 days after all materials (text, photos, logo, business details) are received in full.
+- Process: send business details via WhatsApp → design is built → customer reviews and requests revisions → website is published after approval.
+- Contact: WhatsApp +60 18-288 9932 (https://wa.me/60182889932)
+
+## Main page
+
+- [Dyno Website Services — Website Murah Malaysia, Website Premium RM200](https://murahwebsite.my/): services, real portfolio, process, package details and FAQ
+
+## Sections
+
+- [Kelebihan (benefits)](https://murahwebsite.my/#kelebihan)
+- [Contoh website (portfolio of completed client websites)](https://murahwebsite.my/#portfolio)
+- [Proses dan harga (process and package)](https://murahwebsite.my/#harga)
+- [Tentang Dyno Website Services (about)](https://murahwebsite.my/#tentang)
+- [Soalan lazim (FAQ)](https://murahwebsite.my/#soalan-lazim)
